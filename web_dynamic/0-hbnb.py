@@ -39,7 +39,7 @@ def hbnb():
                            states=st_ct,
                            amenities=amenities,
                            places=places,
-                           unique_id=cache_id)
+                           cache_id=cache_id)
 
 
 if __name__ == "__main__":
