@@ -1,6 +1,7 @@
 # useful scripts
 create_amenities.py
 w3c_validator.py
+validate_html.sh
 
 # storage
 *.json
